@@ -125,7 +125,7 @@ Substitua o html do arquivo app/app.component.html, como sugerido no exemplo aba
 <router-outlet></router-outlet>
 ```
 
-Salve o arquivo e pressione o botão hiperLink Exemplo atividade;
+Salve o arquivo e no Browser, pressione o botão hiperLink Exemplo atividade;
 
 ---
 
