@@ -130,10 +130,14 @@ Salve o arquivo e no Browser, pressione o botão hiperLink Exemplo atividade;
 ---
 
 **Exemplo atividade**
+
 exemplo works!
 
 ---
 
-O html do componente "exemplo", que se encontra no arquivo app/exemplo/exemplo.component.html, foi exibido na página através da tag <router-outlet>.
+O html do componente "exemplo", que se encontra no arquivo app/exemplo/exemplo.component.html, foi exibido na página através da tag; 
+```
+<router-outlet></router-outlet>
+```
 
 Se o exemplo funcionou perfeitamente, o seu projeto foi devidamente configurado!
